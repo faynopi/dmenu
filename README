@@ -19,6 +19,13 @@ Afterwards enter the following command to build and install dmenu
     make clean install
 
 
+Patches
+-------
+
+- line height              https://tools.suckless.org/dmenu/patches/line-height
+- numbers                  https://tools.suckless.org/dmenu/patches/numbers
+
+
 Running dmenu
 -------------
 See the man page for details.
